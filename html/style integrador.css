@@ -1,0 +1,23 @@
+.contenedor{
+    display: inline-block;
+     margin-right: 2px
+}
+.texto{
+width: 100vw;
+height: 100vh;
+display: flex;
+align-items: end;
+background-image:  url(././assests\img\ba1.jpg);
+background-color: rgba(12, 0, 0, 0.5);
+background-size: cover;
+}
+.palabras{
+color: #fff;
+text-align: right;
+width: 50%;
+}
+
+.cuadrado{
+    background-color: black;
+    }
+
